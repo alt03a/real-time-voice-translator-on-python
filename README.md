@@ -70,7 +70,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/real-time-voice-translator.git
+git clone https://github.com/alt03a/real-time-voice-translator.git
 cd real-time-voice-translator
 Install dependencies:
 
