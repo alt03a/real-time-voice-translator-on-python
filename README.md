@@ -84,10 +84,14 @@ Copy
 Edit
 python main.py
 
-##📁 Project Structure
+📁 Project Structure
+
 css
+
 Copy
+
 Edit
+
 real-time-voice-translator/
 │
 ├── main.py              # Main application code
@@ -116,7 +120,7 @@ gTTS and SpeechRecognition services rely on external APIs — ensure stable netw
 
 Currently, gTTS does not support offline usage.
 
-🎓 Author
+##🎓 Author
 Sk Altab Hossen
 B.Tech (Final Year), Information Technology
 Email: skaltab.hossen03@gmail.com
