@@ -62,6 +62,7 @@ Russian
 German
 
 French
+---
 
 🚀 How to Run
 Clone the repository:
@@ -83,13 +84,12 @@ bash
 Copy
 Edit
 python main.py
+---
 
 📁 Project Structure
 
 css
-
 Copy
-
 Edit
 
 real-time-voice-translator/
@@ -119,7 +119,7 @@ This application requires an active internet connection for speech recognition, 
 gTTS and SpeechRecognition services rely on external APIs — ensure stable network access for best performance.
 
 Currently, gTTS does not support offline usage.
-
+---
 ##🎓 Author
 Sk Altab Hossen
 B.Tech (Final Year), Information Technology
